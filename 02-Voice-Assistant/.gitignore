@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environments
+venv/
+.venv/
+
+# Hugging Face
+.cache/
+huggingface/
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
